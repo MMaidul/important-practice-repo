@@ -46,3 +46,14 @@
   background-color: navajowhite;
 }
 /* header-section end here */
+
+.testimonial-section {
+  margin-top: 50px;
+}
+.testimonial {
+  display: flex;
+}
+
+.testimonial__single {
+  margin-left: 40px;
+}
